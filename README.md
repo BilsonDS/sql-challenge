@@ -9,7 +9,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 3. Data Analysis
 
 INSTRUCTIONS
-Inspect the CSVs and sketch out an ERD of the tables 
+Inspect the CSVs and sketch out an ERD of the tables. Use
 http://www.quickdatabasediagrams.com
 
 
